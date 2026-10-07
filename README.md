@@ -24,3 +24,7 @@
 ## 実編集モデルの共通設定
 
 aniya・sonobe・natsumi・harutoは [GPT-6.1 Sol / high の編集用プロファイル](docs/editor-model-settings.md)を使う。設定配置と実稼働モデルの確認を区別する。
+
+### 字幕の必須条件
+
+**1カット最低1字幕。必要なら複数。** [カットごとの字幕と品質検収](docs/caption-coverage.md)に従い、各カットと実字幕を照合して未字幕0件を確認する。各PCで配置しただけでは検収済みにしない。
