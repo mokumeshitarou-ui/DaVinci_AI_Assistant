@@ -7,6 +7,7 @@
 | 必要なこと | 読む場所 |
 |---|---|
 | 再開、カット、原音、字幕、客席、顔、色、保存・検収 | [編集手順](docs/editing-playbook.md) |
+| 取材開始から閉店までの小さな出来事を時刻順HTMLで確認 | [時系列イベント](docs/event-chronology.md) |
 | Resolve APIの尺・字幕位置・再実行の注意 | [実機の知見](docs/resolve-api-notes.md) |
 | なつみ／sonobeの手順差分と確認状況 | [照合記録](docs/sonobe-reconciliation.md) |
 | 作業のたびに知見を同じ場所へ保存する | [更新方法](CONTRIBUTING.md) |
